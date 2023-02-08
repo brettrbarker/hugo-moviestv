@@ -1,25 +1,25 @@
 baseURL: 'http://example.org/'
 languageCode: en-us
-theme: graysx
+theme: ananke
 params:
   logo: assets/img/logo.webp
   favicon: assets/favicon.png
-  address: '123 Arch B1W, GNU/Linux'
-  email: hello@graysx.com
-  phone: '123456'
-  twitter: '#'
-  facebook: '#'
-  github: 'https://github.com/akatiggerx04/graysx-hugo'
-  sbtoken: TOKEN_HERE
+  # address: '123 Arch B1W, GNU/Linux'
+  # email: hello@graysx.com
+  # phone: '123456'
+  # twitter: '#'
+  # facebook: '#'
+  # github: 'https://github.com/akatiggerx04/graysx-hugo'
+  # sbtoken: TOKEN_HERE
 menu:
   main:
-    - name: About
+    - name: Schedule
       URL: '#about'
       weight: 1
-    - name: Projects
+    - name: About
       URL: '#projects'
       weight: 2
-    - name: Contact
+    - name: Where to Watch
       URL: '#signup'
       weight: 3
 
